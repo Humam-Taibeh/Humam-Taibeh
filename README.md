@@ -51,11 +51,11 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
 </div>
 
-<sub>Badges are served from the public `github-readme-stats.vercel.app` instance — the only domain this project is actually hosted on. It's community-run and occasionally rate-limited; if a badge shows a broken-image icon, it's usually transient and clears on refresh.</sub>
+<sub>Badges are served from the public github-readme-stats.vercel.app instance — the only domain this project is actually hosted on. It's community-run and occasionally rate-limited; if a badge shows a broken-image icon, it's usually transient and clears on refresh.</sub>
 
 ---
 
