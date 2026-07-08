@@ -51,8 +51,8 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <sub>Badges are served from a secure, high-availability mirrored instance to bypass public rate limits and guarantee 100% uptime visibility.</sub>
