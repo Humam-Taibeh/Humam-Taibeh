@@ -21,9 +21,11 @@ I'm not positioning myself as a senior manual coder — I'm a sophomore who has 
 
 ## 🚀 Featured Projects
 
+> Production registry of active systems. Each entry links through to full architecture documentation, safety model, and build instructions.
+
 | Project | Description | Stack |
 |---|---|---|
-| 🏛️ **[Humam Windows Architecture](https://github.com/Humam-Taibeh/Humam-Windows-Architecture)** | Flagship project. A dual-layer Windows deployment & optimization framework — a data-driven PowerShell 5.1 core (14 single-responsibility modules) wrapped in a hardware-accelerated, glass-morphism **PySide6 (Qt 6)** desktop app with async `QThread` task execution. | PowerShell 5.1 · Python · PySide6 (Qt 6) |
+| 🏛️ **[Humam Windows Architecture](https://github.com/Humam-Taibeh/Humam-Windows-Architecture)** | Flagship project. A dual-layer Windows deployment & optimization framework — a data-driven PowerShell 5.1 core (13 single-responsibility modules) wrapped in a hardware-accelerated, glass-morphism **PySide6 (Qt 6)** desktop app with async `QThread` task execution. | PowerShell 5.1 · Python · PySide6 (Qt 6) |
 | 🥇 **[GreenDrive AI](https://github.com/Humam-Taibeh/GreenDrive)** | AI-driven route optimization platform built for the Google Hackathon (AI for Intelligent Transportation track). Computes real financial and CO₂ cost of routes across Amman's terrain using elevation-aware physics and a Gemini 1.5 Eco-Coach. | React 19 · Vite · Gemini 1.5 · Google Cloud Run |
 | 🥈 **[Rise](https://github.com/Humam-Taibeh/Rise-App)** | Full-stack productivity platform for task and workflow management, with real-time CRUD state and Postgres-backed triggers via Supabase. | React.js · Vite · Supabase (PostgreSQL) |
 | 🧠 **[Local GenAI Implementation & Testing](https://github.com/Humam-Taibeh/Local-GenAI-Benchmarking)** | Deployment and hands-on evaluation of open-source LLMs (LLaMA 3, Qwen) running fully on-device via Ollama, exploring the privacy/performance tradeoffs of local inference. | Ollama · LLaMA 3 · Qwen |
@@ -49,11 +51,11 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
 ## 📈 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.com/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" width="48%" alt="Humam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Langs" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </div>
+
+<sub>Badges are served from the public `github-readme-stats.vercel.app` instance — the only domain this project is actually hosted on. It's community-run and occasionally rate-limited; if a badge shows a broken-image icon, it's usually transient and clears on refresh.</sub>
 
 ---
 
