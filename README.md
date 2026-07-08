@@ -50,8 +50,8 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
 
 <div align="center">
 
-![Humam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.com/api?username=Humam-Taibeh&show_icons=true&theme=dark&hide_border=true" width="48%" alt="Humam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Langs" />
 
 </div>
 
