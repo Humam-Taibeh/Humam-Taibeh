@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Humam Taibeh
 
-### AI Student · AI-Assisted System Orchestration · GenAI Development Workflows
+### AI Student · AI-Assisted Development · Modern Systems & Web Tools
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Humam-Taibeh&color=blueviolet&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humam-taibeh/)
@@ -13,38 +13,29 @@
 
 ## 🧭 About Me
 
-I'm a sophomore **B.Sc. Artificial Intelligence** student at **Al-Zaytoonah University of Jordan** (Class of 2028). I build production-shaped software prototypes by directing large language models — Claude, Gemini — through architecture-first prompting: I specify the module boundaries, the data contracts, and the safety constraints, then audit and iterate on what comes back. I call this discipline **AI-Assisted System Orchestration**, and it's the throughline across every project below.
+I'm a 3rd-year **B.Sc. Artificial Intelligence** student at **Al-Zaytoonah University of Jordan** (Class of 2028). I focus on building functional software prototypes and modern tools by directing AI coding workflows (Claude, Gemini). 
 
-I'm not positioning myself as a senior manual coder — I'm a sophomore who has learned to move fast and build real, working systems by getting exceptionally good at directing AI coding assistants with precision. That's the honest pitch, and it's the one I'm sticking to.
+My approach centers on defining system architecture, data contracts, and safety constraints, then iteratively refining the implementation. I focus on bridging technical ideas with rapid, working execution.
 
 ---
 
 ## 🚀 Featured Projects
 
-> Production registry of active systems. Each entry links through to full architecture documentation, safety model, and build instructions.
-
 | Project | Description | Stack |
 |---|---|---|
-| 🏛️ **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | Flagship project. A dual-layer Windows deployment & optimization framework — a data-driven PowerShell 5.1 core (13 single-responsibility modules) wrapped in a hardware-accelerated, glass-morphism **PySide6 (Qt 6)** desktop app with async `QThread` task execution. | PowerShell 5.1 · Python · PySide6 (Qt 6) |
-| 🥇 **[GreenDrive](https://github.com/Humam-Taibeh/GreenDrive)** | AI-driven route optimization platform built for the Google Hackathon (AI for Intelligent Transportation track). Computes real financial and CO₂ cost of routes across Amman's terrain using elevation-aware physics and a Gemini 1.5 Eco-Coach. | React 19 · Vite · Gemini 1.5 · Google Cloud Run |
-| 🥈 **[Rise](https://github.com/Humam-Taibeh/Rise)** | Full-stack productivity platform for task and workflow management, with real-time CRUD state and Postgres-backed triggers via Supabase. | React.js · Vite · Supabase (PostgreSQL) |
-| 🎮 **[LinguaArcade](https://github.com/Humam-Taibeh/LinguaArcade)** | Interactive AI-powered language learning platform combining gamified arcade mechanics with adaptive conversational scenarios. | React.js · Vite · GenAI Workflows |
+| 🏛️ **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | Windows deployment & optimization toolkit — a modular PowerShell core wrapped in a hardware-accelerated **PySide6 (Qt 6)** desktop interface with asynchronous task execution. | PowerShell 5.1 · Python · PySide6 |
+| 🥇 **[GreenDrive](https://github.com/Humam-Taibeh/GreenDrive)** | Route optimization platform built for a Google Hackathon. Factors Amman's terrain elevation to estimate fuel consumption and emissions with Gemini 1.5 insights. | React · Vite · Gemini API · Google Cloud |
+| 🥈 **[Rise](https://github.com/Humam-Taibeh/Rise)** | Productivity platform for task and workflow management, featuring real-time CRUD state with Supabase backend. | React · Vite · Supabase (PostgreSQL) |
+| 🎮 **[LinguaArcade](https://github.com/Humam-Taibeh/LinguaArcade)** | Gamified language learning platform combining interactive practice with adaptive AI conversation scenarios. | React · Vite · Gemini API |
 
 ---
 
-## 🛠️ Tech Stack & Technical Competencies
+## 🛠️ Tech Stack & Skills
 
-**Core Foundations**
-`Python` · `Java` · `JavaScript` · `SQL` · `Data Structures` · `Git`
-
-**Web Prototyping**
-`React.js` · `Supabase` · `Vercel` · `HTML5` · `CSS3`
-
-**GenAI & AI-Assisted Development**
-`Advanced Prompt Engineering` · `AI-Assisted System Orchestration` · `Local LLM Deployment (Ollama — LLaMA 3, Qwen)` · `AI Coding Assistants (Claude, Cursor, Roo, Cline)`
-
-**Professional Strengths**
-High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English) · Rapid technical troubleshooting · Cross-functional team collaboration · ICDL Certified (97%)
+* **Languages & Core:** Python, Java, JavaScript, SQL, Git
+* **Frontend & Web:** React.js, Vite, HTML5, CSS3, Supabase
+* **AI & Workflows:** Gemini API, Prompt Engineering, AI-Assisted Development (Claude, Cursor)
+* **Desktop & Automation:** PySide6 (Qt), PowerShell Scripting
 
 ---
 
@@ -55,8 +46,6 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humam-Taibeh&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
-<sub>Badges are served from a secure, high-availability mirrored instance to bypass public rate limits and guarantee 100% uptime visibility.</sub>
-
 ---
 
 ## 📫 Connect with Me
@@ -64,5 +53,5 @@ High-throughput bilingual technical execution (107+ WPM Arabic / 93+ WPM English
 [💼 LinkedIn](https://www.linkedin.com/in/humam-taibeh/) · 💬 Discord: `pe_v`
 
 <div align="center">
-<sub>Open to technical internships and junior AI/software workflow roles.</sub>
+<sub>Open to technical internships and junior AI/software opportunities.</sub>
 </div>
