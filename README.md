@@ -26,7 +26,6 @@ My approach centers on defining system architecture, data contracts, and safety 
 | 🏛️ **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | Windows deployment & optimization toolkit — a modular PowerShell core wrapped in a hardware-accelerated **PySide6 (Qt 6)** desktop interface with asynchronous task execution. | PowerShell 5.1 · Python · PySide6 |
 | 🥇 **[GreenDrive](https://github.com/Humam-Taibeh/GreenDrive)** | Route optimization platform built for a Google Hackathon. Factors Amman's terrain elevation to estimate fuel consumption and emissions with Gemini 1.5 insights. | React · Vite · Gemini API · Google Cloud |
 | 🥈 **[Rise](https://github.com/Humam-Taibeh/Rise)** | Productivity platform for task and workflow management, featuring real-time CRUD state with Supabase backend. | React · Vite · Supabase (PostgreSQL) |
-| 🎮 **[LinguaArcade](https://github.com/Humam-Taibeh/LinguaArcade)** | Gamified language learning platform combining interactive practice with adaptive AI conversation scenarios. | React · Vite · Gemini API |
 
 ---
 
