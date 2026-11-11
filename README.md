@@ -1,3 +1,7 @@
+[العربية](README.ar.md) | **English**
+
+---
+
 <div align="center">
 
 # 👋 Hi, I'm Humam Taibeh
@@ -25,11 +29,11 @@ I'm not trying to "generate and ship" blindly. I'm learning how to use AI the ri
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📚 **DevCore** 🔒 *(private repository)* | A self-paced Backend & AI Engineering curriculum in Arabic (Jordanian dialect, RTL): 21 modules, one task at a time, exams built from what you studied, an installable offline PWA, and progress synced across devices. | Vanilla JS · Vite · Supabase (Postgres, RLS) · Vitest · Playwright |
 | 🔔 **[UniNotifier](https://github.com/Humam-Taibeh/UniNotifier)** | Runs on my own Windows PC, watches my university's Moodle, and sends new files, assignments, deadlines, lecture alerts and grades to a private Telegram bot. Course files are archived automatically, with a GPA planner on top. No server and no subscription; credentials stay on the PC. | Python · Playwright · Telegram Bot API · Windows Task Scheduler · PowerShell |
 | 🏛️ **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | Windows deployment & optimization toolkit: a modular PowerShell core with a PySide6 (Qt 6) desktop interface and asynchronous task execution. | PowerShell 5.1 · Python · PySide6 |
-
-**More:** [GreenDrive](https://github.com/Humam-Taibeh/GreenDrive), a route optimization app built for a Google hackathon (participation certificate), React · Vite · Gemini API · Google Cloud · [Rise](https://github.com/Humam-Taibeh/Rise), a task and workflow manager with real-time CRUD on Supabase.
+| 🌿 **[GreenDrive](https://github.com/Humam-Taibeh/GreenDrive)** | Route optimization app built for a Google hackathon (participation certificate). Factors Amman's terrain elevation into fuel and emissions estimates, with Gemini-generated insights. | React · Vite · Gemini API · Google Cloud |
+| 🚀 **[Rise](https://github.com/Humam-Taibeh/Rise)** | Task and workflow manager with real-time CRUD state on a Supabase backend. | React · Vite · Supabase (PostgreSQL) |
+| 📚 **DevCore** 🔒 *(private repository)* | A self-paced Backend & AI Engineering curriculum in Arabic (Jordanian dialect, RTL): 21 modules, one task at a time, exams built from what you studied, an installable offline PWA, and progress synced across devices. | Vanilla JS · Vite · Supabase (Postgres, RLS) · Vitest · Playwright |
 
 ---
 
