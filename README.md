@@ -1,5 +1,3 @@
-[العربية](README.ar.md) | **English**
-
 <div align="center">
 
 # Humam Taibeh
