@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# همام طيبة
+# همام طيبة (Humam Taibeh)
 
 ### طالب ذكاء اصطناعي · أتعلّم بناء البرمجيات باستخدام أدوات البرمجة بالذكاء الاصطناعي
 
@@ -33,7 +33,7 @@
 |---|---|---|
 | **[UniNotifier](https://github.com/Humam-Taibeh/UniNotifier)** | يراقب منصة Moodle الخاصة بجامعتي من حاسوبي الشخصي، ويرسل الملفات والمواعيد والعلامات الجديدة إلى بوت Telegram خاص. بدون خادم، وبيانات الدخول تبقى على جهازي. | Python · Playwright · Telegram Bot API |
 | **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | أداة لنشر وتحسين أنظمة Windows، مبنية بأولوية الأمان (نقاط استعادة ووضع تجريبي dry-run) مع 1,776 اختبار pytest و442 اختبار Pester. | PowerShell · Python · PySide6 |
-| **[GreenDrive AI](https://github.com/Humam-Taibeh/GreenDrive)** · [عرض مباشر](https://greendrive-1082596306226.europe-west1.run.app/) | محسّن مسارات يأخذ تضاريس عمّان بالحسبان، بُني مع فريق من ثلاثة في هاكاثون Google Antigravity. يقدّر تكلفة الوقود أو الكهرباء وانبعاثات CO2 لكل مسار، مع مدرّب "Eco-Coach" مدعوم بـ Gemini. | React · Vite · Gemini API · Firebase · Supabase · Cloud Run |
+| **[GreenDrive AI](https://github.com/Humam-Taibeh/GreenDrive)** | نموذج أولي لتحسين المسارات في عمّان، بُني مع فريق من ثلاثة في هاكاثون Google Antigravity. يقدّر تكلفة الوقود أو الكهرباء وانبعاثات CO2 لكل مسار بنموذج طاقة يراعي الصعود (قيم الصعود تقديرية)، مع مدرّب "Eco-Coach" مدعوم بـ Gemini. [المعاينة الحيّة](https://greendrive-5574e.web.app) هي عرض تصميم فقط، وتحليل المسارات قيد التطوير. | React · Vite · Gemini API · Firebase · Cloud Run |
 | **[Rise](https://github.com/Humam-Taibeh/Rise)** | مدير مهام وسير عمل بحالة لحظية على Supabase. | React · Vite · Supabase |
 | **DevCore** *(خاص)* | برنامج تعلّم ذاتي في هندسة الـ Backend والذكاء الاصطناعي باللغة العربية: 21 وحدة، واختبارات، وتطبيق PWA يعمل بدون إنترنت، وتقدّم متزامن بين الأجهزة محمي بسياسات الأمان على مستوى الصف (RLS). | Vanilla JS · Vite · Supabase · Vitest · Playwright |
 
