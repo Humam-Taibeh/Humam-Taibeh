@@ -27,25 +27,15 @@ I'm not trying to "generate and ship" blindly. I'm learning how to use AI the ri
 
 ## Featured Projects
 
-### [UniNotifier](https://github.com/Humam-Taibeh/UniNotifier)
-A background service on my own Windows PC that watches my university's Moodle and sends new files, assignments, deadlines, lecture alerts and grades to a private Telegram bot. It archives course files automatically and includes a GPA planner and a registration planner. No server, credentials stay local, with an offline test suite and CI.
-**Stack:** Python · Playwright · Telegram Bot API · Windows Task Scheduler · PowerShell · GitHub Actions
+| Project | What it does | Stack |
+|---|---|---|
+| **[UniNotifier](https://github.com/Humam-Taibeh/UniNotifier)** | Watches my university's Moodle from my own PC and sends new files, deadlines and grades to a private Telegram bot. No server; credentials stay local. | Python · Playwright · Telegram Bot API |
+| **[Pulse](https://github.com/Humam-Taibeh/Pulse)** | Windows deployment and optimization toolkit, built safety-first (restore points, dry-run mode) with 1,776 pytest and 442 Pester tests. | PowerShell · Python · PySide6 |
+| **[GreenDrive AI](https://github.com/Humam-Taibeh/GreenDrive)** · [Live Demo](https://greendrive-1082596306226.europe-west1.run.app/) | Terrain-aware route optimizer for Amman, built with a team of three at the Google Antigravity Hackathon. Estimates fuel/EV cost and CO2 per route, with a Gemini-powered Eco-Coach. | React · Vite · Gemini API · Firebase · Supabase · Cloud Run |
+| **[Rise](https://github.com/Humam-Taibeh/Rise)** | Task and workflow manager with real-time state on a Supabase backend. | React · Vite · Supabase |
+| **DevCore** *(private)* | Self-paced Backend & AI Engineering program in Arabic: 21 modules, exams, an offline PWA, and synced progress protected by row-level security. | Vanilla JS · Vite · Supabase · Vitest · Playwright |
 
-### [Pulse](https://github.com/Humam-Taibeh/Pulse)
-Windows deployment and optimization toolkit: a PySide6 (Qt 6) desktop interface that dispatches named tasks to a 20-module PowerShell engine. Built safety-first, with automatic restore points, registry and service snapshots, a dry-run mode and a stop button that ends the whole process tree. Backed by 1,776 pytest and 442 Pester tests, CI on every change, and a self-updater that installs only releases with a verified SHA-256 checksum. English/Arabic interface with right-to-left support.
-**Stack:** PowerShell 5.1 · Python · PySide6 · Inno Setup · GitHub Actions
-
-### [GreenDrive AI](https://github.com/Humam-Taibeh/GreenDrive) · [Live Demo](https://greendrive-1082596306226.europe-west1.run.app/)
-Terrain-aware route optimizer built with a team of three at the Google Antigravity Hackathon (GDG on Campus – ZUJ; participation certificate). It uses live elevation data to calculate the gravitational work of each route in Amman's hills, compares Jordanian fuel and EV tariffs, estimates cost and CO2, and includes a Gemini-powered "Eco-Coach" that explains the savings.
-**Stack:** React 19 · Vite · Google Maps & Elevation APIs · Gemini API · Firebase · Supabase · Google Cloud Run
-
-### [Rise](https://github.com/Humam-Taibeh/Rise)
-Task and workflow manager with real-time CRUD state on a Supabase backend.
-**Stack:** React · Vite · Supabase (PostgreSQL)
-
-### DevCore *(private)*
-A self-paced Backend & AI Engineering program in Arabic (Jordanian dialect): 21 modules, one task at a time, exams built from what you studied, and an installable offline PWA. Progress syncs across devices through Supabase with conflict-safe merging, and row-level security protects each user's data.
-**Stack:** Vanilla JS · Vite · Supabase (Postgres, RLS) · Vitest · Playwright
+Each repository has its own README with the full details.
 
 ---
 
